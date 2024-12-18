@@ -72,4 +72,4 @@ elif uploaded_files:
         st.write(result['sources'])
     except Exception as e:
       st.error(f"An error occurred: {e}")
-      st.error('Oops, the GPT response resulted in an error :( Please try again with a different question.'
+      st.error('Oops, the GPT response resulted in an error :( Please try again with a different question.')
